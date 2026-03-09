@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "adult": false,
+    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "original_language": "en",
+    "original_title": "Inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "popularity": 154.523,
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "release_date": "2010-07-15",
+    "video": false,
+    "vote_average": 8.8,
+    "vote_count": 35000
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "adult": false,
+    "backdrop_path": "/xJHbUj2b1t6TohI14C3H43xQ0xK.jpg",
+    "genre_ids": [
+      12,
+      18,
+      878
+    ],
+    "original_language": "en",
+    "original_title": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "popularity": 200.74,
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "release_date": "2014-11-05",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 33000
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "adult": false,
+    "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80,
+      53
+    ],
+    "original_language": "en",
+    "original_title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "popularity": 130.45,
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "release_date": "2008-07-16",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 31000
+  },
+  {
+    "id": 4,
+    "title": "Avatar: The Way of Water",
+    "adult": false,
+    "backdrop_path": "/8rpDcsfLJypbO6vtec0g5Z40Fss.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "original_language": "en",
+    "original_title": "Avatar: The Way of Water",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "popularity": 3450.5,
+    "poster_path": "/t6HIqrHezINNdIExjk7YAYD0h3J.jpg",
+    "release_date": "2022-12-14",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 15000
+  },
+  {
+    "id": 5,
+    "title": "The Matrix",
+    "adult": false,
+    "backdrop_path": "/ncEsesL17Rhs0VdEnA6104Xqj52.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "original_language": "en",
+    "original_title": "The Matrix",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "popularity": 110.2,
+    "poster_path": "/f89U3ADr9tH54H1Q8Z3z6R72yT4.jpg",
+    "release_date": "1999-03-30",
+    "video": false,
+    "vote_average": 8.7,
+    "vote_count": 24000
+  },
+  {
+    "id": 6,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "adult": false,
+    "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn's full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence.",
+    "popularity": 650.3,
+    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "release_date": "2023-05-31",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 6500
+  }
+]
