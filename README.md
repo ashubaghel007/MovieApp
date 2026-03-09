@@ -49,9 +49,8 @@ This project uses [file-based routing](https://docs.expo.dev/router/introduction
 ---
 
 Enjoy exploring movies with MovieApp! 🍿
+<img width="500" height="1206" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-09 at 14 19 17" src="https://github.com/user-attachments/assets/9738f1c4-9253-4d6c-82a4-d8bbfb30b3a9" />
+<img width="500" height="1206" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-09 at 14 19 10" src="https://github.com/user-attachments/assets/b967c427-4064-44ab-bfed-750597bc6bbd" />
+<img width="500" height="1206" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-09 at 14 19 03" src="https://github.com/user-attachments/assets/aa89f06a-5208-427e-9e46-7890bd420066" />
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-09 at 14 19 10" src="https://github.com/user-attachments/assets/b967c427-4064-44ab-bfed-750597bc6bbd" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-09 at 14 19 03" src="https://github.com/user-attachments/assets/aa89f06a-5208-427e-9e46-7890bd420066" />
-
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-09 at 14 19 17" src="https://github.com/user-attachments/assets/9738f1c4-9253-4d6c-82a4-d8bbfb30b3a9" />
 
