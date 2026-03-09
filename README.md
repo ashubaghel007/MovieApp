@@ -1,50 +1,51 @@
-# Welcome to your Expo app 👋
+# 🎬 MovieApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native mobile application built with [Expo](https://expo.dev) and [Expo Router](https://docs.expo.dev/router/introduction). This app allows users to browse a list of movies, view movie details, and search for their favorite films.
 
-## Get started
+## ✨ Features
 
-1. Install dependencies
+- **Home Feed**: Browse through a curated list of movies displayed using `FlatList`.
+- **Search**: Find specific movies easily using the dedicated search tab.
+- **Movie Details**: View in-depth information about individual movies.
+- **Tab Navigation**: Seamlessly switch between Home and Search views using bottom tabs.
+- **File-based Routing**: Utilizes Expo Router for intuitive and scalable navigation.
 
-   ```bash
-   npm install
-   ```
+## 🚀 Get Started
 
-2. Start the app
+### 1. Install dependencies
 
-   ```bash
-   npx expo start
-   ```
+```bash
+npm install
+```
 
-In the output, you'll find options to open the app in a
+### 2. Start the app
+
+```bash
+npx expo start
+```
+
+In the output, you'll find options to open the app in a:
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📁 Project Structure
 
-## Get a fresh project
+This project uses [file-based routing](https://docs.expo.dev/router/introduction). The core application files are located in the **app** directory:
 
-When you're ready, run:
+- `app/(tabs)/index.tsx`: The main home screen displaying the movie list.
+- `app/(tabs)/search.tsx`: The search screen for finding movies.
+- `app/movies/[id].tsx`: The movie details screen, automatically handling dynamic routing based on the movie ID.
+- `data/movies.json`: Local JSON data serving as the movie database for the application.
 
-```bash
-npm run reset-project
-```
+## 🛠️ Built With
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Expo Router](https://docs.expo.dev/router/introduction)
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Enjoy exploring movies with MovieApp! 🍿
